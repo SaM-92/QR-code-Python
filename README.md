@@ -1,5 +1,7 @@
 # 🌐 QR Code Generator with Logo 🖼️
 
+![1692494041713](image/README/1692494041713.png)
+
 Create stylish and customized QR codes with logos using Python! This repository provides a convenient tool to generate QR codes that stand out, making your links and messages more engaging.
 
 🔹 Features:
