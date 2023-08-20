@@ -1,2 +1,4 @@
 qrcode
 PIL
+IPython
+Pillow
